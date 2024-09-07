@@ -1,6 +1,6 @@
 ## Hello world! 👋
 
-My name is Diogo Delazade, or Joe for short. I am currently a Computer Engineering undergrad at Federal University of Espirito Santo and a qualified electrotechnician from Federal Institute of Espito Santo. Yeah, i have a big love/hate relationship with hardware related stuff...
+My name is Diogo Delazare, or Joe for short. I am currently a Computer Engineering undergrad at Federal University of Espirito Santo and a qualified electrotechnician from Federal Institute of Espito Santo. Yeah, i have a big love/hate relationship with hardware related stuff...
 
 I am currently learning about web and game developmente, aside from all the college lessons which are slowly consuming part of my sanity and soul. Loving most seconds of it!
 My hobbies include gaming, reading, writing, origami and ocasionally hyper focusing on some awesome albeit almost useless personal projects (e.g developing a linux device driver for my one controller who simply refused to connect properly).
