@@ -8,6 +8,7 @@ My hobbies include gaming, reading, writing, origami and ocasionally hyper focus
 Interests include psychology, humor, programming in general and a bunch of nerdy subcultures (Pokemon, Tabletop gaming in general, etc).
 
 Technologies known:
+
 ![image](https://github.com/user-attachments/assets/eb82fb97-447a-497b-b117-fac1f7f52d27) - Advanced - Love/hate it.
 
 ![image](https://github.com/user-attachments/assets/989b7ed4-dd4e-43e6-9442-c0e9268cab89) - Intermediate - Best language ever!
