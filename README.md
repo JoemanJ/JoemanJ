@@ -9,7 +9,7 @@ My hobbies include gaming, 3d printing, writing, origami and ocasionally hyper f
 Interests include psychology, humor, programming in general and a bunch of nerdy subcultures (Pokemon, Tabletop gaming in general, etc).
 
 ## Technologies known:
-### Confident with:
+### My favorites:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,js,ts,python,linux)](https://skillicons.dev)
 ### Know/Have worked with:
 [![My Skills](https://skillicons.dev/icons?i=css,go,java,haskell,git,docker,pytorch,autocad)](https://skillicons.dev)
