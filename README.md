@@ -24,11 +24,11 @@ Technologies known:
 
 ![image](https://github.com/user-attachments/assets/2e156b96-7887-43cf-8926-7c2ae193c507) - Intermediate - Not that bad, but thank god for typescript!
 
-![image](https://github.com/user-attachments/assets/4e332a6b-45cd-47a2-9e17-eac0bf1f51cd) - Beginner - A blessing!
+![image](https://github.com/user-attachments/assets/4e332a6b-45cd-47a2-9e17-eac0bf1f51cd) - Intermediate - A blessing!
 
 ![image](https://github.com/user-attachments/assets/e8297c26-0899-478c-9a9c-8f6f2fed587b) - Intermediate - Love it for quick tasks, not so much for projects.
 
-I mostly don't use social media, so if you want to contact me, my email is diogodelazare@hotmail.com
+I mostly don't use social media, so if you want to contact me, my email is diogodelazare@outlook.com
 
 Thanks for the visit! Have a great day! 👋
 
