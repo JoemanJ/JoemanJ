@@ -14,7 +14,7 @@ Interests include psychology, humor, programming in general and a bunch of nerdy
 ### Know/Have worked with:
 [![My Skills](https://skillicons.dev/icons?i=css,go,java,haskell,git,docker,pytorch,autocad)](https://skillicons.dev)
 ### Currently learning:
-[![My Skills](https://skillicons.dev/icons?i=django,angular,cmake,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,angular,cmake,blender,react,next)](https://skillicons.dev)
 ### Plan to learn:
 [![My Skills](https://skillicons.dev/icons?i=kotlin,rust,bash,godot,kali)](https://skillicons.dev)
 
