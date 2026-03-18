@@ -14,9 +14,9 @@ Interests include psychology, humor, programming in general and a bunch of nerdy
 ### Know/Have worked with:
 [![My Skills](https://skillicons.dev/icons?i=css,go,java,haskell,git,docker,pytorch,autocad)](https://skillicons.dev)
 ### Currently learning:
-[![My Skills](https://skillicons.dev/icons?i=django,angular,cmake)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,angular,cmake,blendder)](https://skillicons.dev)
 ### Plan to learn:
-[![My Skills](https://skillicons.dev/icons?i=kotlin,rust,bash,godot,blender,kali)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,rust,bash,godot,kali)](https://skillicons.dev)
 
 I mostly don't use social media, so if you want to contact me, my email is diogodelazare@outlook.com
 
